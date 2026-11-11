@@ -1,0 +1,23 @@
+{
+  "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/MyApp/IDE/Documents/DocumentTypes.swift" : {
+    "const-values" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/DocumentTypes.swiftconstvalues",
+    "dependencies" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/DocumentTypes.d",
+    "diagnostics" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/DocumentTypes.dia",
+    "object" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/DocumentTypes.o",
+    "swift-dependencies" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/DocumentTypes.swiftdeps"
+  },
+  "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/MyApp/IDE/Editor/PythonSyntaxHighlighter.swift" : {
+    "const-values" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/PythonSyntaxHighlighter.swiftconstvalues",
+    "dependencies" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/PythonSyntaxHighlighter.d",
+    "diagnostics" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/PythonSyntaxHighlighter.dia",
+    "object" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/PythonSyntaxHighlighter.o",
+    "swift-dependencies" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/PythonSyntaxHighlighter.swiftdeps"
+  },
+  "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/MyApp/IDE/Editor/PythonTextEditor.swift" : {
+    "const-values" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/PythonTextEditor.swiftconstvalues",
+    "dependencies" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/PythonTextEditor.d",
+    "diagnostics" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/PythonTextEditor.dia",
+    "object" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/PythonTextEditor.o",
+    "swift-dependencies" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/PythonTextEditor.swiftdeps"
+  }
+}

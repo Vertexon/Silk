@@ -1,0 +1,40 @@
+{
+  "source": "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/MyApp/IDE/Views/InspectorPane.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Inspector section",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 13
+        }
+      },
+      {
+        "comment": "",
+        "key": "Variables",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 14
+        }
+      },
+      {
+        "comment": "",
+        "key": "Console",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 15
+        }
+      },
+      {
+        "comment": "",
+        "key": "Plots",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 16
+        }
+      }
+    ]
+  },
+  "version": 1
+}

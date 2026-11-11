@@ -1,0 +1,16 @@
+{
+  "source": "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/MyApp/IDE/Views/Components.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Runtime status: %@",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 136
+        }
+      }
+    ]
+  },
+  "version": 1
+}

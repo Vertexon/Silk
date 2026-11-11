@@ -1,0 +1,23 @@
+{
+  "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/MyApp/IDE/State/IDEStore.swift" : {
+    "const-values" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/IDEStore.swiftconstvalues",
+    "dependencies" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/IDEStore.d",
+    "diagnostics" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/IDEStore.dia",
+    "object" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/IDEStore.o",
+    "swift-dependencies" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/IDEStore.swiftdeps"
+  },
+  "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/MyApp/IDE/Support/PlatformSupport.swift" : {
+    "const-values" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/PlatformSupport.swiftconstvalues",
+    "dependencies" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/PlatformSupport.d",
+    "diagnostics" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/PlatformSupport.dia",
+    "object" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/PlatformSupport.o",
+    "swift-dependencies" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/PlatformSupport.swiftdeps"
+  },
+  "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/MyApp/IDE/Views/CodeEditorPane.swift" : {
+    "const-values" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/CodeEditorPane.swiftconstvalues",
+    "dependencies" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/CodeEditorPane.d",
+    "diagnostics" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/CodeEditorPane.dia",
+    "object" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/CodeEditorPane.o",
+    "swift-dependencies" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/CodeEditorPane.swiftdeps"
+  }
+}

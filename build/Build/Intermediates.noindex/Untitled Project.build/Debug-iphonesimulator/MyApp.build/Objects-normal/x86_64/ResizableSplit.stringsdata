@@ -1,0 +1,24 @@
+{
+  "source": "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/MyApp/IDE/Views/ResizableSplit.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Resize editor and inspector",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 91
+        }
+      },
+      {
+        "comment": "",
+        "key": "Resize editor and inspector height",
+        "location": {
+          "startingColumn": 74,
+          "startingLine": 91
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,32 @@
+{
+  "source": "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/MyApp/IDE/Views/SymbolDocumentationView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Looking up %@…",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 50
+        }
+      },
+      {
+        "comment": "",
+        "key": "Place the caret on a name that the Python session has defined, then open Docs again.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 72
+        }
+      },
+      {
+        "comment": "",
+        "key": "No documentation for %@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 61
+        }
+      }
+    ]
+  },
+  "version": 1
+}

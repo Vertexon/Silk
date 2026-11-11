@@ -1,0 +1,88 @@
+{
+  "source": "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/MyApp/IDE/Views/ConsoleView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Inspector tab",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 107
+        }
+      },
+      {
+        "comment": "",
+        "key": "Copy console",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 125
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear console",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 133
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear plots",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 141
+        }
+      },
+      {
+        "comment": "",
+        "key": "Console",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 108
+        }
+      },
+      {
+        "comment": "",
+        "key": "Plots",
+        "location": {
+          "startingColumn": 48,
+          "startingLine": 109
+        }
+      },
+      {
+        "comment": "",
+        "key": "Plots · %lld",
+        "location": {
+          "startingColumn": 58,
+          "startingLine": 109
+        }
+      },
+      {
+        "comment": "",
+        "key": "Copy console",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 175
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear console",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 183
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear plots",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 205
+        }
+      }
+    ]
+  },
+  "version": 1
+}

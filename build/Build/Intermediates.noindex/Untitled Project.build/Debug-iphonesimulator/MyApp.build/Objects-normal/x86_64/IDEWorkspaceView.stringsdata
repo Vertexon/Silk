@@ -1,0 +1,152 @@
+{
+  "source": "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/MyApp/IDE/Views/IDEWorkspaceView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "File Error",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 223
+        }
+      },
+      {
+        "comment": "",
+        "key": "Silk",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 104
+        }
+      },
+      {
+        "comment": "",
+        "key": "IDE options",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 194
+        }
+      },
+      {
+        "comment": "",
+        "key": "Editor",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 114
+        }
+      },
+      {
+        "comment": "",
+        "key": "Variables",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 119
+        }
+      },
+      {
+        "comment": "",
+        "key": "Kernel",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 162
+        }
+      },
+      {
+        "comment": "",
+        "key": "Auto-Complete Parentheses",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 115
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sort by",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 122
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ascending",
+        "location": {
+          "startingColumn": 71,
+          "startingLine": 135
+        }
+      },
+      {
+        "comment": "",
+        "key": "Descending",
+        "location": {
+          "startingColumn": 85,
+          "startingLine": 135
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sort Variables",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 140
+        }
+      },
+      {
+        "comment": "",
+        "key": "Reload variables",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 148
+        }
+      },
+      {
+        "comment": "",
+        "key": "Workspace Files",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 156
+        }
+      },
+      {
+        "comment": "",
+        "key": "Restart Python Runtime",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 166
+        }
+      },
+      {
+        "comment": "",
+        "key": "Remove All Variables",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 172
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear Console",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 178
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear Plots",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 184
+        }
+      },
+      {
+        "comment": "",
+        "key": "OK",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 227
+        }
+      }
+    ]
+  },
+  "version": 1
+}

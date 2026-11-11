@@ -1,0 +1,23 @@
+{
+  "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/MyApp/IDE/Engine/PyodideHostView.swift" : {
+    "const-values" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug/MyApp.build/Objects-normal/arm64/PyodideHostView.swiftconstvalues",
+    "dependencies" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug/MyApp.build/Objects-normal/arm64/PyodideHostView.d",
+    "diagnostics" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug/MyApp.build/Objects-normal/arm64/PyodideHostView.dia",
+    "object" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug/MyApp.build/Objects-normal/arm64/PyodideHostView.o",
+    "swift-dependencies" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug/MyApp.build/Objects-normal/arm64/PyodideHostView.swiftdeps"
+  },
+  "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/MyApp/IDE/Engine/WebHostAssets.swift" : {
+    "const-values" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug/MyApp.build/Objects-normal/arm64/WebHostAssets.swiftconstvalues",
+    "dependencies" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug/MyApp.build/Objects-normal/arm64/WebHostAssets.d",
+    "diagnostics" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug/MyApp.build/Objects-normal/arm64/WebHostAssets.dia",
+    "object" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug/MyApp.build/Objects-normal/arm64/WebHostAssets.o",
+    "swift-dependencies" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug/MyApp.build/Objects-normal/arm64/WebHostAssets.swiftdeps"
+  },
+  "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/MyApp/IDE/Models/IDEModels.swift" : {
+    "const-values" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug/MyApp.build/Objects-normal/arm64/IDEModels.swiftconstvalues",
+    "dependencies" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug/MyApp.build/Objects-normal/arm64/IDEModels.d",
+    "diagnostics" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug/MyApp.build/Objects-normal/arm64/IDEModels.dia",
+    "object" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug/MyApp.build/Objects-normal/arm64/IDEModels.o",
+    "swift-dependencies" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug/MyApp.build/Objects-normal/arm64/IDEModels.swiftdeps"
+  }
+}

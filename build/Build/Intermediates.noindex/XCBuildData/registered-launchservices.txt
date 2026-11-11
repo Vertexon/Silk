@@ -1,0 +1,2 @@
+/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Products/Debug/MyApp.app
+/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Products/Debug/Silk.app

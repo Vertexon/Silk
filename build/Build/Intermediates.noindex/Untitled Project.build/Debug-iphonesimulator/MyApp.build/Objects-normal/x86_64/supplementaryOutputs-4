@@ -1,0 +1,23 @@
+{
+  "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/MyApp/IDE/Engine/BridgePayloads.swift" : {
+    "const-values" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/BridgePayloads.swiftconstvalues",
+    "dependencies" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/BridgePayloads.d",
+    "diagnostics" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/BridgePayloads.dia",
+    "object" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/BridgePayloads.o",
+    "swift-dependencies" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/BridgePayloads.swiftdeps"
+  },
+  "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/MyApp/IDE/Engine/PyodideConfiguration.swift" : {
+    "const-values" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/PyodideConfiguration.swiftconstvalues",
+    "dependencies" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/PyodideConfiguration.d",
+    "diagnostics" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/PyodideConfiguration.dia",
+    "object" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/PyodideConfiguration.o",
+    "swift-dependencies" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/PyodideConfiguration.swiftdeps"
+  },
+  "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/MyApp/IDE/Engine/PyodideEngine.swift" : {
+    "const-values" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/PyodideEngine.swiftconstvalues",
+    "dependencies" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/PyodideEngine.d",
+    "diagnostics" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/PyodideEngine.dia",
+    "object" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/PyodideEngine.o",
+    "swift-dependencies" : "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/build/Build/Intermediates.noindex/Untitled Project.build/Debug-iphonesimulator/MyApp.build/Objects-normal/x86_64/PyodideEngine.swiftdeps"
+  }
+}

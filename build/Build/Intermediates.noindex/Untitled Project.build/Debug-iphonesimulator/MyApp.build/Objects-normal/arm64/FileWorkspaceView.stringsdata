@@ -1,0 +1,104 @@
+{
+  "source": "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/MyApp/IDE/Views/FileWorkspaceView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "File Error",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 89
+        }
+      },
+      {
+        "comment": "",
+        "key": "Workspace Files",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 54
+        }
+      },
+      {
+        "comment": "",
+        "key": "OK",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 93
+        }
+      },
+      {
+        "comment": "",
+        "key": "Read imported files by name: np.genfromtxt(\"data.csv\") or open(\"notes.txt\"). Files reset when Python restarts.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 113
+        }
+      },
+      {
+        "comment": "",
+        "key": "Python working directory",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 104
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld files",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 108
+        }
+      },
+      {
+        "comment": "",
+        "key": "Reading the Python working directory…",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 129
+        }
+      },
+      {
+        "comment": "",
+        "key": "Export to Files…",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 165
+        }
+      },
+      {
+        "comment": "",
+        "key": "Copy File Name",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 171
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete File",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 179
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 196
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,224 @@
+{
+  "source": "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/MyApp/IDE/Views/VariableExplorerView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Remove all variables?",
+        "location": {
+          "startingColumn": 13,
+          "startingLine": 69
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 14,
+          "startingLine": 83
+        }
+      },
+      {
+        "comment": "",
+        "key": "Switch to %@ layout",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 101
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sort variables",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 129
+        }
+      },
+      {
+        "comment": "",
+        "key": "Reload variables",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 145
+        }
+      },
+      {
+        "comment": "",
+        "key": "Workspace files",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 155
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear variables",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 167
+        }
+      },
+      {
+        "comment": "",
+        "key": "Remove All",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 73
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 76
+        }
+      },
+      {
+        "comment": "",
+        "key": "This deletes every user variable from the Python workspace. It cannot be undone.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 78
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sort by",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 106
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sort by",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 107
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ascending",
+        "location": {
+          "startingColumn": 51,
+          "startingLine": 121
+        }
+      },
+      {
+        "comment": "",
+        "key": "Descending",
+        "location": {
+          "startingColumn": 65,
+          "startingLine": 121
+        }
+      },
+      {
+        "comment": "",
+        "key": "Filter variables",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 242
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear filter",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 257
+        }
+      },
+      {
+        "comment": "",
+        "key": "View Variable",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 304
+        }
+      },
+      {
+        "comment": "",
+        "key": "Copy Name",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 310
+        }
+      },
+      {
+        "comment": "",
+        "key": "Copy Value",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 316
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete Variable",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 324
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 331
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@, %@, shape %@",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 389
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 426
+        }
+      },
+      {
+        "comment": "",
+        "key": "shape %@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 449
+        }
+      },
+      {
+        "comment": "",
+        "key": "Copied",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 459
+        }
+      },
+      {
+        "comment": "",
+        "key": "Copy",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 459
+        }
+      },
+      {
+        "comment": "",
+        "key": "Reading value…",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 480
+        }
+      }
+    ]
+  },
+  "version": 1
+}

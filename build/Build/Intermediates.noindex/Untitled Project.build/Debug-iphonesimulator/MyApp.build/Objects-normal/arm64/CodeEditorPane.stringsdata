@@ -1,0 +1,96 @@
+{
+  "source": "/Users/isaac/Library/Developer/Xcode/UntitledProjects/Untitled Project/MyApp/IDE/Views/CodeEditorPane.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Run Selection",
+        "location": {
+          "startingColumn": 59,
+          "startingLine": 36
+        }
+      },
+      {
+        "comment": "",
+        "key": "Run Line",
+        "location": {
+          "startingColumn": 77,
+          "startingLine": 36
+        }
+      },
+      {
+        "comment": "",
+        "key": "Run All",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 45
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ln %lld, Col %lld",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 152
+        }
+      },
+      {
+        "comment": "",
+        "key": "·",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 153
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld lines",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 155
+        }
+      },
+      {
+        "comment": "",
+        "key": "·",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 158
+        }
+      },
+      {
+        "comment": "",
+        "key": "·",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 173
+        }
+      },
+      {
+        "comment": "",
+        "key": "Python 3 · UTF-8",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 185
+        }
+      },
+      {
+        "comment": "",
+        "key": "Line %lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 162
+        }
+      },
+      {
+        "comment": "",
+        "key": "Running",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 182
+        }
+      }
+    ]
+  },
+  "version": 1
+}
