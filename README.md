@@ -54,3 +54,8 @@ Pyodide — no Python binary and no server.
   multi-document editor.
 - First run requires network unless Pyodide is bundled locally.
 - Syntax highlighting is regex-based and is disabled above 120k characters.
+
+## Screenshots
+
+![Screenshot of Silk](IMG_2085.png)
+![Screenshot of Silk’s variable viewer](IMG_2086.png)
